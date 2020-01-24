@@ -1,0 +1,1 @@
+# Get-Attribute-value-from-a-vRO-Configuration-Element
